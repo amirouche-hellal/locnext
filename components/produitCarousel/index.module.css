@@ -1,0 +1,7 @@
+.carouselMain{
+    height: 450px;
+   }
+   .carouselItems {
+       transform: translate(0%,-15%);
+       width:100% !important
+   }

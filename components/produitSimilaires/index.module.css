@@ -1,0 +1,21 @@
+.prixEtTitre{
+    background: #303e4abf;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 2em;
+    font-size: em;
+    font-weight: 600;
+    color: white;
+}
+
+.imageProduitSimilaire{
+    cursor: pointer;
+}
+
+.category{
+    position: relative;
+    top: 2em;
+    left: .5em;
+    color: white;
+    font-weight: 600;
+}

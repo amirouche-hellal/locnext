@@ -1,0 +1,23 @@
+[
+   { 
+       "page" : "home",
+
+        "title":" home "
+
+        
+   }  ,
+    { 
+        "page" : "login",
+
+        "title":" la page login "
+
+        
+    }  ,
+    { 
+        "page" : "appartements",
+ 
+         "title":" liste des appartements "
+ 
+         
+    }   
+]

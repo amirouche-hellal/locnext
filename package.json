@@ -1,0 +1,38 @@
+{
+  "name": "final-application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.21.0",
+    "bad-words": "^3.0.4",
+    "clsx": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "formidable": "^1.2.2",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^3.1.1",
+    "mdbreact": "^5.0.1",
+    "moment-timezone": "^0.5.31",
+    "next": "^10.0.1",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-infinite-scroll-component": "^5.1.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-moment": "^1.0.0",
+    "react-paginate": "^6.5.0",
+    "react-router-dom": "^5.2.0",
+    "react-slideshow-image": "^3.4.3",
+    "serverless-mysql": "^1.5.4",
+    "swr": "^0.3.8"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.1"
+  }
+}

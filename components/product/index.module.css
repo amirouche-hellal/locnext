@@ -1,0 +1,32 @@
+.img_produits {
+    width: 100%;
+    height: auto;
+   
+}
+
+
+@media screen and (min-width :768px){
+    .img_produits {
+        width: 100%;
+        height: 250px;
+    }
+    .btnVoir{
+        margin-left: auto !important;
+    }
+}
+
+
+@media screen and (max-width :768px){
+    
+    .btnVoir{
+        margin: 0 auto !important;
+    }
+
+    .img_produits {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
